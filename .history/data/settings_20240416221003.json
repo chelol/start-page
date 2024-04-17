@@ -1,5 +1,5 @@
 {
-	"username": "chelo",
+	"username": "Excalith",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
@@ -103,11 +103,6 @@
 				"alias": "w",
 				"name": "Wikipedia Search",
 				"url": "https://en.wikipedia.org/wiki/{}"
-			},
-			{
-				"alias": "y",
-				"name": "YouTube Search",
-				"url": "https://www.youtube.com/results?search_query={}"
 			}
 		]
 	},
@@ -121,22 +116,20 @@
 					{
 						"name": "Gmail",
 						"url": "https://mail.google.com",
-						"icon": "mdi:gmail"
+						"icon": "mdi:web"
 					},
 					{
 						"name": "iCloud",
 						"url": "https://icloud.com/",
-						"icon": "simple-icons:icloud"
+						"icon": "fa-brands:keybase"
 					},
 					{
 						"name": "Protonmail",
 						"url": "https://account.proton.me/mail",
-						"icon": "simple-icons:protonmail"
+						"icon": "simple-icons:openai"
 					},
 					{
-						"name": "Simplelogin",
-						"url": "https://app.simplelogin.io/auth/login",
-						"icon": "simple-icons:simplelogin"
+						
 					}
 				]
 			},
@@ -151,19 +144,19 @@
 						"icon": "mdi:github"
 					},
 					{
-						"name": "Cloudflare",
-						"url": "https://cloudflare.com",
-						"icon": "simple-icons:cloudflare"
+						"name": "GitLab",
+						"url": "https://gitlab.com",
+						"icon": "ph:gitlab-logo-simple-fill"
 					},
 					{
-						"name": "DigitalOcean",
-						"url": "https://digitalocean.com",
-						"icon": "simple-icons:digitalocean"
+						"name": "Dev.to",
+						"url": "https://dev.to",
+						"icon": "material-symbols:logo-dev"
 					},
 					{
-						"name": "Netlify",
-						"url": "https://netlify.com/",
-						"icon": "simple-icons:netlify"
+						"name": "Stack Overflow",
+						"url": "https://stackoverflow.com/",
+						"icon": "mdi:stack-overflow"
 					}
 				]
 			},
@@ -173,13 +166,13 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "(X) Twitter",
+						"name": "Twitter",
 						"url": "https://twitter.com",
 						"icon": "mdi:twitter"
 					},
 					{
 						"name": "Mastodon",
-						"url": "https://toot.io/",
+						"url": "https://mastodon.social/",
 						"icon": "ri:mastodon-fill"
 					},
 					{
@@ -188,63 +181,63 @@
 						"icon": "mdi:reddit"
 					},
 					{
-						"name": "Linkedin",
-						"url": "https://linkedin.com",
-						"icon": "simple-icons:linkedin"
+						"name": "Polywork",
+						"url": "https://polywork.com",
+						"icon": "simple-icons:polywork"
 					}
 				]
 			},
 			{
-				"title": "Media",
+				"title": "Gaming",
 				"color": "red",
 				"align": "left",
 				"links": [
 					{
-						"name": "YouTube",
-						"url": "https://youtube.com.com",
-						"icon": "uil:youtube"
+						"name": "Polygon",
+						"url": "https://polygon.com",
+						"icon": "uil:polygon"
 					},
 					{
-						"name": "YouTube Music",
-						"url": "https://music.youtube.com",
-						"icon": "simple-icons:youtubemusic"
+						"name": "IGN",
+						"url": "https://ign.com",
+						"icon": "mdi:currency-sign"
 					},
 					{
-						"name": "Navidrome",
-						"url": "https://music.w.uy",
-						"icon": "mdi:music"
+						"name": "RPS",
+						"url": "https://rockpapershotgun.com/",
+						"icon": "ph:toilet-paper-bold"
 					},
 					{
-						"name": "Radio Garden",
-						"url": "https://radio.garden/",
-						"icon": "mdi:radio"
+						"name": "80lv",
+						"url": "https://80.lv/",
+						"icon": "tabler:hand-rock"
 					}
 				]
 			},
 			{
-				"title": "Tools",
+				"title": "Science",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "Notion",
-						"url": "https://notion.so/",
-						"icon": "simple-icons:notion"
+						"name": "PopSci",
+						"url": "https://popsci.com/",
+						"icon": "material-symbols:science"
 					},
 					{
-						"name": "ChatGPT",
-						"url": "https://chat.openai,com",
-						"icon": "simple-icons:openai"
+						"name": "Space",
+						"url": "fa6-solid:user-astronaut",
+						"icon": "mdi:reddit"
 					},
 					{
-						"name": "NextDNS",
-						"url": "https://my.nextdns.io/login",
-						"icon": "simple-icons:nextdns"
+						"name": "NASA",
+						"url": "https://blogs.nasa.gov/",
+						"icon": "simple-icons:nasa"
 					},
 					{
-						"name": "Tailscale",
-						"url": "https://login.tailscale.com/",
-						"icon": "simple-icons:wireguard"
+						"name": "ESA",
+						"url": "https://blogs.esa.int/",
+						"icon": "mdi:black-mesa"
 					}
 				]
 			},
@@ -264,14 +257,14 @@
 						"icon": "arcticons:verge"
 					},
 					{
-						"name": "Hacker News",
-						"url": "https://news.ycombinator.com/",
-						"icon": "simple-icons:ycombinator"
+						"name": "It's Foss",
+						"url": "https://itsfoss.com/",
+						"icon": "ri:mastodon-fill"
 					},
 					{
-						"name": "Slashdot",
-						"url": "https://slashdot.org/",
-						"icon": "simple-icons:slashdot"
+						"name": "9To5 Linux",
+						"url": "https://9to5linux.com/",
+						"icon": "uil:linux"
 					}
 				]
 			}

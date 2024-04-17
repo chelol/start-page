@@ -243,7 +243,7 @@
 					},
 					{
 						"name": "Tailscale",
-						"url": "https://login.tailscale.com/",
+						"url": "https://tailscale.com/",
 						"icon": "simple-icons:wireguard"
 					}
 				]

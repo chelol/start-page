@@ -132,11 +132,6 @@
 						"name": "Protonmail",
 						"url": "https://account.proton.me/mail",
 						"icon": "simple-icons:protonmail"
-					},
-					{
-						"name": "Simplelogin",
-						"url": "https://app.simplelogin.io/auth/login",
-						"icon": "simple-icons:simplelogin"
 					}
 				]
 			},
@@ -243,7 +238,7 @@
 					},
 					{
 						"name": "Tailscale",
-						"url": "https://login.tailscale.com/",
+						"url": "https://tailscale.com/",
 						"icon": "simple-icons:wireguard"
 					}
 				]

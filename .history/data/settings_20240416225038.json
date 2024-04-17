@@ -107,7 +107,7 @@
 			{
 				"alias": "y",
 				"name": "YouTube Search",
-				"url": "https://www.youtube.com/results?search_query={}"
+				"url": "ttps://www.youtube.com/results?search_query={}"
 			}
 		]
 	},
@@ -121,22 +121,17 @@
 					{
 						"name": "Gmail",
 						"url": "https://mail.google.com",
-						"icon": "mdi:gmail"
+						"icon": "mdi:web"
 					},
 					{
 						"name": "iCloud",
 						"url": "https://icloud.com/",
-						"icon": "simple-icons:icloud"
+						"icon": "fa-brands:keybase"
 					},
 					{
 						"name": "Protonmail",
 						"url": "https://account.proton.me/mail",
-						"icon": "simple-icons:protonmail"
-					},
-					{
-						"name": "Simplelogin",
-						"url": "https://app.simplelogin.io/auth/login",
-						"icon": "simple-icons:simplelogin"
+						"icon": "simple-icons:openai"
 					}
 				]
 			},
@@ -153,17 +148,17 @@
 					{
 						"name": "Cloudflare",
 						"url": "https://cloudflare.com",
-						"icon": "simple-icons:cloudflare"
+						"icon": "ph:cloudflare-logo-simple-fill"
 					},
 					{
 						"name": "DigitalOcean",
 						"url": "https://digitalocean.com",
-						"icon": "simple-icons:digitalocean"
+						"icon": "material-symbols:logo-dev"
 					},
 					{
 						"name": "Netlify",
 						"url": "https://netlify.com/",
-						"icon": "simple-icons:netlify"
+						"icon": "mdi:netlify"
 					}
 				]
 			},
@@ -207,17 +202,17 @@
 					{
 						"name": "YouTube Music",
 						"url": "https://music.youtube.com",
-						"icon": "simple-icons:youtubemusic"
+						"icon": "mdi:youtube-music"
 					},
 					{
 						"name": "Navidrome",
 						"url": "https://music.w.uy",
-						"icon": "mdi:music"
+						"icon": "ph:toilet-paper-bold"
 					},
 					{
 						"name": "Radio Garden",
 						"url": "https://radio.garden/",
-						"icon": "mdi:radio"
+						"icon": "tabler:hand-rock"
 					}
 				]
 			},
@@ -229,12 +224,12 @@
 					{
 						"name": "Notion",
 						"url": "https://notion.so/",
-						"icon": "simple-icons:notion"
+						"icon": "material-symbols:science"
 					},
 					{
 						"name": "ChatGPT",
 						"url": "https://chat.openai,com",
-						"icon": "simple-icons:openai"
+						"icon": "mdi:openai"
 					},
 					{
 						"name": "NextDNS",
@@ -243,8 +238,8 @@
 					},
 					{
 						"name": "Tailscale",
-						"url": "https://login.tailscale.com/",
-						"icon": "simple-icons:wireguard"
+						"url": "https://tailscale.com/",
+						"icon": "mdi:tailscale"
 					}
 				]
 			},
@@ -266,12 +261,12 @@
 					{
 						"name": "Hacker News",
 						"url": "https://news.ycombinator.com/",
-						"icon": "simple-icons:ycombinator"
+						"icon": "ri:mastodon-fill"
 					},
 					{
 						"name": "Slashdot",
 						"url": "https://slashdot.org/",
-						"icon": "simple-icons:slashdot"
+						"icon": "uil:linux"
 					}
 				]
 			}
